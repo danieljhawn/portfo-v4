@@ -25,7 +25,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #1E0E62;
+  color: #fff;
   -webkit-font-smoothing: antialiased;
 }
 body.dev {
@@ -52,6 +52,10 @@ header nav {
   top: 0;
   left: 0;
   z-index: 1000;
+}
+
+.content_2 {
+  background-color: #272727;
 }
 
 nav {
