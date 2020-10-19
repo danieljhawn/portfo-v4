@@ -64,9 +64,12 @@ header nav {
 
 nav {
   width: 100%;
-  /* background-color: #1E0E62; */
-
+  background-color: #3d3d3d;
 }
+nav a {
+  color: #fff;
+}
+
 nav.transparent {
   background: transparent;
 }
